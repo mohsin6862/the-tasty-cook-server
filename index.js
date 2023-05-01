@@ -7,6 +7,10 @@ app.use(cors());
 app.get('/', (req, res) => {
   res.send('Chef Recipe is comming')
 })
+app.get('/recipes',(req,res)=>{
+    res.send(recipes)
+})
+
 
 
 app.listen(port, () => {
