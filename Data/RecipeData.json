@@ -6,9 +6,23 @@
     "likes": "158k",
     "experience": "8 Years",
     "image": "https://images.pexels.com/photos/887827/pexels-photo-887827.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "Recipe_image": "https://images.media-allrecipes.com/userphotos/960x960/6211920.jpg",
+    "Recipe_image1": "https://tse2.mm.bing.net/th?id=OIP.cUxhnCpiMLlai_2c3bsp0AHaLH&pid=Api&P=0",
+    "Recipe_image2": "https://tse3.mm.bing.net/th?id=OIF.bzIKVzNyQCgehlgZp8RstA&pid=Api&P=0",
+    "rating":"5",
     "chefName": "Parker Wood",
     "chefBio": "Chef Parker Wood is a culinary prodigy whose passion has taken him around the world. Experienced in French, Italian, and Asian cuisine, he has earned repute in the kitchen as well as recognition among the food critics.",
-    "descreption": "cream butter with sugar to make a coffee cake batter, then use butter again later to make a crumb topping. For instances like these, list the total amount of butter followed by the word divided - as in, 6 tablespoons butter, divided "
+    "descreption": "cream butter with sugar to make a coffee cake batter, then use butter again later to make a crumb topping. For instances like these, list the total amount of butter followed by the word divided - as in, 6 tablespoons butter, divided ",
+    "direction": "cream butter with sugar to make a coffee cake batter, then use butter again later to make a crumb topping. For instances like these, list the total amount of butter followed by the word divided - as in, 6 tablespoons butter, divided ",
+    "recipeName":"Sweet Pea and Radish Salad",
+    "recipeName1":"Best Lasagna",
+    "recipeName2":"Lemon Ricotta Pasta",
+    "ingredients1":"3 cups frozen peas (about 12 ounces)",
+    "ingredients2":"1 pound radishes, thinly sliced",
+    "ingredients3":"1/2 teaspoon kosher salt",
+    "ingredients4":"3 tablespoons heavy whipping cream"
+
+    
   },  
   {
     "_id": "645027b250dbf7595648b7a4",
@@ -17,10 +31,22 @@
     "likes": "900K",
     "experience": "10 Years",
     "image": "https://images.pexels.com/photos/3771106/pexels-photo-3771106.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "Recipe_image": "https://tse3.mm.bing.net/th?id=OIP.p7IjgvVw4St4vAi7QtD3FQHaFR&pid=Api&P=0",
+    "Recipe_image1": "https://tse2.mm.bing.net/th?id=OIP.cUxhnCpiMLlai_2c3bsp0AHaLH&pid=Api&P=0",
+    "Recipe_image2": "https://tse3.mm.bing.net/th?id=OIF.bzIKVzNyQCgehlgZp8RstA&pid=Api&P=0",
     "chefName": "Joyce Obrien",
     "chefBio": "Joyce Obrien is the head chef and owner of AL-Riyad, an award-winning restaurant in the heart of Chicago. With her culinary degree from Le Cordon Bleu and 15 years of cooking experience, she has been creating delicious meals for customers since 2006.",
+    "rating":"4.5",
     
-    "descreption": "cream butter with sugar to make a coffee cake batter, then use butter again later to make a crumb topping. For instances like these, list the total amount of butter followed by the word divided - as in, 6 tablespoons butter, divided "
+    "descreption": "cream butter with sugar to make a coffee cake batter, then use butter again later to make a crumb topping. For instances like these, list the total amount of butter followed by the word divided - as in, 6 tablespoons butter, divided ",
+    "direction": "cream butter with sugar to make a coffee cake batter, then use butter again later to make a crumb topping. For instances like these, list the total amount of butter followed by the word divided - as in, 6 tablespoons butter, divided ",
+    "recipeName":"Sweet Pea and Radish Salad",
+    "recipeName1":"Best Lasagna",
+    "recipeName2":"Lemon Ricotta Pasta",
+    "ingredients1":"3 cups frozen peas (about 12 ounces)",
+    "ingredients2":"1 pound radishes, thinly sliced",
+    "ingredients3":"1/2 teaspoon kosher salt",
+    "ingredients4":"3 tablespoons heavy whipping cream"
   },
   {
     "_id": "645027b29654057107985ff9",
@@ -28,10 +54,22 @@
     "recipes": 8,
     "likes": "600K",
     "experience": "3 Years",
+    "rating":"4.5",
     "image": "https://images.pexels.com/photos/3771120/pexels-photo-3771120.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "Recipe_image": "https://tse1.mm.bing.net/th?id=OIP.KCKA-kVvDM_3T7SuxXYLXAHaHa&pid=Api&P=0",
+    "Recipe_image1": "https://tse4.mm.bing.net/th?id=OIP.xWs7dYfv4g2LjZ23nXwptAHaEo&pid=Api&P=0",
+    "Recipe_image2": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2017/12/18/0/FNK_Over-the-Top-Reeses-Cheesecake-h1_s4x3.jpg.rend.hgtvcom.966.644.suffix/1513598473580.jpeg",
     "chefName": "Ashlee Floyd",
     "chefBio": "Ashlee Floyd is the executive chef of Restaurant, a popular five-star restaurant in Manhattan. After graduating from the French Culinary Institute, she has gained fame for her creative interpretation of classic French cuisine.",
-    "descreption": "cream butter with sugar to make a coffee cake batter, then use butter again later to make a crumb topping. For instances like these, list the total amount of butter followed by the word divided - as in, 6 tablespoons butter, divided "
+    "descreption": "cream butter with sugar to make a coffee cake batter, then use butter again later to make a crumb topping. For instances like these, list the total amount of butter followed by the word divided - as in, 6 tablespoons butter, divided ",
+    "direction": "cream butter with sugar to make a coffee cake batter, then use butter again later to make a crumb topping. For instances like these, list the total amount of butter followed by the word divided - as in, 6 tablespoons butter, divided ",
+    "recipeName":"Sweet Pea and Radish Salad",
+    "recipeName1":"Best Lasagna",
+    "recipeName2":"Lemon Ricotta Pasta",
+    "ingredients1":"3 cups frozen peas (about 12 ounces)",
+    "ingredients2":"1 pound radishes, thinly sliced",
+    "ingredients3":"1/2 teaspoon kosher salt",
+    "ingredients4":"3 tablespoons heavy whipping cream"
   },
 
   {
@@ -41,10 +79,21 @@
       "experience": "2 Years",
       "likes": "2M",
       "image": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "Recipe_image": "https://tse4.mm.bing.net/th?id=OIP.TzlhUfOd0rLA6iErfzFLAwHaE6&pid=Api&P=0",
+      "Recipe_image1": "https://tse4.mm.bing.net/th?id=OIP.xWs7dYfv4g2LjZ23nXwptAHaEo&pid=Api&P=0",
+      "Recipe_image2": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2017/12/18/0/FNK_Over-the-Top-Reeses-Cheesecake-h1_s4x3.jpg.rend.hgtvcom.966.644.suffix/1513598473580.jpeg",
       "chefName": "Tiffany Carson",
       "chefBio": "Tiffany Carson is the head chef and owner of SALT-BAE, an award-winning restaurant in the heart of Chicago. With her culinary degree from Le Cordon Bleu and 15 years of cooking experience, she has been creating delicious meals for customers since 2006.",
-      
-      "descreption": "cream butter with sugar to make a coffee cake batter, then use butter again later to make a crumb topping. For instances like these, list the total amount of butter followed by the word divided - as in, 6 tablespoons butter, divided "
+      "rating":"4.5",
+      "descreption": "cream butter with sugar to make a coffee cake batter, then use butter again later to make a crumb topping. For instances like these, list the total amount of butter followed by the word divided - as in, 6 tablespoons butter, divided ",
+      "direction": "cream butter with sugar to make a coffee cake batter, then use butter again later to make a crumb topping. For instances like these, list the total amount of butter followed by the word divided - as in, 6 tablespoons butter, divided ",
+    "recipeName":"Sweet Pea and Radish Salad",
+    "recipeName1":"Best Lasagna",
+    "recipeName2":"Lemon Ricotta Pasta",
+    "ingredients1":"3 cups frozen peas (about 12 ounces)",
+    "ingredients2":"1 pound radishes, thinly sliced",
+    "ingredients3":"1/2 teaspoon kosher salt",
+    "ingredients4":"3 tablespoons heavy whipping cream"
     },
     {
       "_id": "645027b230195926767a3abf",
@@ -52,10 +101,23 @@
       "recipes": 7,
       "likes": "6.5M",
       "experience": "7 Years",
+      "rating":"4.5",
       "image": "https://images.pexels.com/photos/2102934/pexels-photo-2102934.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "Recipe_image": "https://tse3.mm.bing.net/th?id=OIP.7L2Gok8wdiX21sWL_0Zu8gHaHA&pid=Api&P=0",
+      "Recipe_image1": "https://tse4.mm.bing.net/th?id=OIP.xWs7dYfv4g2LjZ23nXwptAHaEo&pid=Api&P=0",
+      "Recipe_image2": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2017/12/18/0/FNK_Over-the-Top-Reeses-Cheesecake-h1_s4x3.jpg.rend.hgtvcom.966.644.suffix/1513598473580.jpeg",
       "chefName": "Holcomb Fisher",
       "chefBio": "London-based chef Holcomb Fisher has been honing his skills in Spanish cuisine since his early days in Barcelona. With a passion for creating traditional flavours with a modern twist, he has established himself as an acclaimed chef in the city.",
-      "descreption": "cream butter with sugar to make a coffee cake batter, then use butter again later to make a crumb topping. For instances like these, list the total amount of butter followed by the word divided - as in, 6 tablespoons butter, divided "
+      "descreption": "cream butter with sugar to make a coffee cake batter, then use butter again later to make a crumb topping. For instances like these, list the total amount of butter followed by the word divided - as in, 6 tablespoons butter, divided ",
+      "direction": "cream butter with sugar to make a coffee cake batter, then use butter again later to make a crumb topping. For instances like these, list the total amount of butter followed by the word divided - as in, 6 tablespoons butter, divided ",
+    "recipeName":"Sweet Pea and Radish Salad",
+    "recipeName1":"Best Lasagna",
+    "recipeName2":"Lemon Ricotta Pasta",
+    "ingredients1":"3 cups frozen peas (about 12 ounces)",
+    "ingredients2":"1 pound radishes, thinly sliced",
+    "ingredients3":"1/2 teaspoon kosher salt",
+    "ingredients4":"3 tablespoons heavy whipping cream"
+    
     },
     {
       "_id": "645027b2bcdcacafb1457787",
@@ -64,9 +126,21 @@
       "likes": "9.3M",
       "experience": "2 Years",
       "image": "https://images.pexels.com/photos/3351927/pexels-photo-3351927.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "Recipe_image": "https://tse3.mm.bing.net/th?id=OIP._gzfqNOJu0QTAdTC-KfIPQHaK4&pid=Api&P=0",
+      "Recipe_image1": "https://tse4.mm.bing.net/th?id=OIP.xWs7dYfv4g2LjZ23nXwptAHaEo&pid=Api&P=0",
+      "Recipe_image2": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2017/12/18/0/FNK_Over-the-Top-Reeses-Cheesecake-h1_s4x3.jpg.rend.hgtvcom.966.644.suffix/1513598473580.jpeg",
       "chefName": "Rosemarie Owens",
       "chefBio": "Rosemarie Owens is the executive chef of SEA-SHELL, a popular five-star restaurant in Manhattan. After graduating from the French Culinary Institute, she has gained fame for her creative interpretation of classic French cuisine.",
-      "descreption": "cream butter with sugar to make a coffee cake batter, then use butter again later to make a crumb topping. For instances like these, list the total amount of butter followed by the word divided - as in, 6 tablespoons butter, divided "
+      "descreption": "cream butter with sugar to make a coffee cake batter, then use butter again later to make a crumb topping. For instances like these, list the total amount of butter followed by the word divided - as in, 6 tablespoons butter, divided ",
+      "direction": "cream butter with sugar to make a coffee cake batter, then use butter again later to make a crumb topping. For instances like these, list the total amount of butter followed by the word divided - as in, 6 tablespoons butter, divided ",
+    "recipeName":"Sweet Pea and Radish Salad",
+    "recipeName1":"Best Lasagna",
+    "recipeName2":"Lemon Ricotta Pasta",
+    "rating":"4.2",
+    "ingredients1":"3 cups frozen peas (about 12 ounces)",
+    "ingredients2":"1 pound radishes, thinly sliced",
+    "ingredients3":"1/2 teaspoon kosher salt",
+    "ingredients4":"3 tablespoons heavy whipping cream"
     },
     
     
@@ -77,9 +151,22 @@
       "likes": "850k",
       "experience": "5 Years",
       "image": "https://images.pexels.com/photos/4253302/pexels-photo-4253302.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "Recipe_image": "https://images.media-allrecipes.com/userphotos/960x960/6211920.jpg",
+      "Recipe_image1": "https://tse4.explicit.bing.net/th?id=OIF.%2fEPt%2b4qHJ50NLnOrO5s2mA&pid=Api&P=0",
+      "Recipe_image2": "https://tse1.mm.bing.net/th?id=OIP.F0wSkwfP1ODfH1-tLW9O4gHaD-&pid=Api&P=0",
       "chefName": "Lucille Graham",
       "chefBio": "Lucille Graham is the head chef and owner of Restaurant, an award-winning restaurant in the heart of Chicago. With her culinary degree from Le Cordon Bleu and 15 years of cooking experience, she has been creating delicious meals for customers since 2006.",
       
-      "descreption": "cream butter with sugar to make a coffee cake batter, then use butter again later to make a crumb topping. For instances like these, list the total amount of butter followed by the word divided - as in, 6 tablespoons butter, divided "
+      "descreption": "cream butter with sugar to make a coffee cake batter, then use butter again later to make a crumb topping. For instances like these, list the total amount of butter followed by the word divided - as in, 6 tablespoons butter, divided ",
+      "direction": "cream butter with sugar to make a coffee cake batter, then use butter again later to make a crumb topping. For instances like these, list the total amount of butter followed by the word divided - as in, 6 tablespoons butter, divided ",
+    "recipeName":"Sweet Pea and Radish Salad",
+    "recipeName1":"Best Lasagna",
+    "recipeName2":"Lemon Ricotta Pasta",
+    "rating":"4.5",
+
+    "ingredients1":"3 cups frozen peas (about 12 ounces)",
+    "ingredients2":"1 pound radishes, thinly sliced",
+    "ingredients3":"1/2 teaspoon kosher salt",
+    "ingredients4":"3 tablespoons heavy whipping cream"
     }
   ]
