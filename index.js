@@ -4,6 +4,7 @@ const port = process.env.PORT || 5000;
 const recipes = require('./Data/RecipeData.json')
 const apply = require('./Data/ApplyAsChef.json')
 const features = require('./Data/Features.json')
+const newRecipes =require('./Data/NewRecipes.json')
 const cors = require('cors')
 app.use(cors());
 app.get('/', (req, res) => {
@@ -23,6 +24,9 @@ app.get('/apply', (req,res)=>{
 })
 app.get('/features',(req,res)=>{
     res.send(features)
+})
+app.get('/newRecipes',(req,res)=>{
+  res.send(newRecipes)
 })
 
 app.listen(port, () => {

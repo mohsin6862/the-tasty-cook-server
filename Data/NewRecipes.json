@@ -1,0 +1,33 @@
+[ 
+     { 
+    
+"id": 1,    
+"name": "Chicken Alfredo",    
+"image": "https://tse4.mm.bing.net/th?id=OIP.l-SuVuoh3rzs6wK9IjjrjwHaLH&pid=Api&P=0",    
+"youtube_link": "https://youtu.be/6-m_u_8r81o",    
+"rating": 4.5  
+},  
+{    
+    
+"id": 2,    
+"name": "Pesto Pasta",    
+"image": "https://tse1.mm.bing.net/th?id=OIP.MxQSux-GLdPvu6uumTQpagHaLH&pid=Api&P=0",    
+"youtube_link": "https://youtu.be/p7edUxCLOGw",    
+"rating": 4.2  
+},  
+{    
+    
+"id": 3,    
+"name": "Beef Stroganoff",    
+"image": "https://tse3.mm.bing.net/th?id=OIP.BVQxoRH3kG5MKLtZMtpM4AHaEK&pid=Api&P=0",    
+"youtube_link": "https://youtu.be/7r3dlmYUf4s",    
+"rating": 4.7 
+ },  
+ {    
+    
+ "id": 4,    
+ "name": "Spaghetti Bolognese",   
+  "image": "https://tse2.mm.bing.net/th?id=OIP.Ml-NgAmfpNx3OKB0Lk6rCAHaHa&pid=Api&P=0",   
+   "youtube_link": "https://youtu.be/SE9eZy2FnWE",    
+   "rating": 4.3  
+   }]
