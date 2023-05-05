@@ -38,25 +38,6 @@
       "req1": "Must currently in UAE",
       "req2": "Must have to Know Thai cuisine",
       "req3": "Must have a degree"
-    },
-    {
-      "_id": "64528bfb5518aed0fbe63b05",
-      "index": 4,
-      "experience": "No Experience needed",
-      "image": "https://www.thegastrojob.com/wp-content/uploads/2017/01/Chef-Jobs-Abroad-English-language-working.jpg",
-      "jobName": "Assistant Chef",
-      "req1": "Must currently in London",
-      "req2": "Must have to Know Spanish cuisine",
-      "req3": "Must have a degree"
-    },
-    {
-      "_id": "64528bfb18d66a5279e9f4f7",
-      "index": 5,
-      "experience": "5 Years",
-      "image": "https://4.bp.blogspot.com/-kdBRiS4g_Zo/UJZ2yvTHmJI/AAAAAAAAHFo/B5Fm701pWb0/s1600/4-11+(20).gif",
-      "jobName": "Main Chef",
-      "req1": "Must currently in USA",
-      "req2": "Must have to Know Maxican cuisine",
-      "req3": "Must have a degree"
     }
+   
   ]
